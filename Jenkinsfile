@@ -1,3 +1,3 @@
-node("ECS") {
+node("") {
    echo 'Hello World'
 }
